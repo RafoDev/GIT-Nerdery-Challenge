@@ -15,3 +15,7 @@ Some text *here*
 ## Fourth subtitle
 
 Some text *here*
+
+## An image 
+
+![Logo](/ravnhq_logo.jpg)
